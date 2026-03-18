@@ -1,2 +1,2 @@
-# Multithreading-Processor
-Python cellular automaton simulation using multiprocessing to optimize matrix-based computations over 100 iterations.
+# MultiProcessing
+A cellular life simulation written in Python that uses both serial and parallel computation to parse a matrix over 100 iterations. To simulate changing cell states, the project uses intricate rule-based transformations using powers of two, prime numbers, and Fibonacci numbers. By dividing computing over several processes, it makes use of Python's multiprocessing module to increase performance. Concepts in concurrency, parallel processing, and performance optimization are illustrated in this project.
